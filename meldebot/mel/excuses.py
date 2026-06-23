@@ -109,14 +109,24 @@ EXCUSES = [
     "És que el meu sofà m'ha desafiat a un duel de migdiades i no puc rebutjar-lo.",
     "No puc venir, estic esperant que el forn em faci un discurs motivacional.",
     "Avui no surto… el terra torna a ser lava.",
-    "No puc, he d’ensenyar a un fantasma a respectar el meu espai personal.",
+    "No puc, he d'ensenyar a un fantasma a respectar el meu espai personal.",
     "Estic molt ocupat intentant domesticar una crispet agressiva.",
     "No podré assistir: estic ajudant el meu WiFi a trobar el seu veritable propòsit.",
-    "No puc venir, tinc cita amb el meu destí… i s’ha endarrerit sense avisar.",
+    "No puc venir, tinc cita amb el meu destí… i s'ha endarrerit sense avisar.",
     "Estic en plena crisi existencial: i si els mitjons desapareguts només volien llibertat?",
-    "M'encantaria venir, però m’han retingut uns gremlins perquè no m’he acabat l’esmorzar.",
+    "M'encantaria venir, però m'han retingut uns gremlins perquè no m'he acabat l'esmorzar.",
     "No puc assistir, estic intentant recordar on vaig deixar la meva motivació. Crec que al 2019.",
     "No puc venir, estic intentant convèncer un ocell que no sóc un arbre.",
+    "No puc venir, el meu reflex ha decidit anar per lliure i l'he de vigilar.",
+    "Tinc una urgència: una versió meva del futur ha vingut a demanar-me que no vagi, però es nega a explicar-me per què.",
+    "No arribaré, estic intentant treure una cullera d'una dimensió paral·lela.",
+    "No puc sortir de casa perquè el passadís s'ha allargat misteriosament uns tres quilòmetres.",
+    "M'han convocat d'urgència al consell extraordinari dels coloms del barri.",
+    "No puc venir, la rentadora s'ha empassat un mitjó important i les negociacions estan encallades.",
+    "Avui em va fatal: he de regar una planta de plàstic que està passant una molt mala època.",
+    "No podré venir, m'ha tocat custodiar una porta que només apareix quan ningú la mira.",
+    "Ho sento, però tinc una emergència domèstica: el sofà ha començat a cobrar lloguer.",
+    "No puc venir, un cargol m'ha reptat a una cursa i no penso deixar que guanyi per incompareixença."
 ]
 
 
